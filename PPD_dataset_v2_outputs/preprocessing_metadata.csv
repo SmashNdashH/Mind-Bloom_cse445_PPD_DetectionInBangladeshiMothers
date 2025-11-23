@@ -1,0 +1,13 @@
+Key,Value
+Dataset,PPD_dataset_v2.csv
+Original Shape,"(800, 51)"
+After Preprocessing,"(800, 51)"
+After Feature Selection,"(769, 35)"
+Final Train Set Shape,"(615, 101)"
+Final Test Set Shape,"(154, 101)"
+Target Variable,EPDS Result
+Target Classes,"['high', 'low', 'medium']"
+Train/Test Split,80/20 (Stratified)
+Numeric Features,"['Age', 'Number of the latest pregnancy', 'PHQ9 Score']"
+Categorical Features Dropped,"['Age of newborn', 'Current monthly income', 'Marital status', 'Mode of delivery', 'Occupation before latest pregnancy', 'Monthly income before latest pregnancy', 'History of pregnancy loss', 'Addiction', 'Occupation After Your Latest Childbirth', ""Husband's monthly income"", 'Residence', 'sr', 'Newborn illness', 'Gender of newborn']"
+Numeric Features Dropped,['EPDS Score']

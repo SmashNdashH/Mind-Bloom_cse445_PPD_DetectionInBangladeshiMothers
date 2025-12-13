@@ -1,0 +1,54 @@
+Feature,Importance
+PHQ9 Score,0.36599863894493523
+PHQ9 Result,0.1306313230624279
+Age of immediate older children,0.07281092069131803
+phq9_minimal,0.03979206561661051
+Feeling about motherhood,0.028103813138828558
+phq9_moderate,0.02659584511554854
+Fear of pregnancy,0.025664729933945196
+Diseases during pregnancy,0.020930801302513773
+Number of the latest pregnancy,0.02014119837191375
+low_support_flag,0.017662291970861627
+age_optimal,0.01679716300530912
+phq9_mild,0.01632427229911434
+Abuse,0.016268822857752326
+Recieved Support,0.015025953305932361
+social_support_index,0.013926873322786311
+Husband's education level,0.01383472801444075
+Breastfeed,0.010517713997622195
+age_very_young,0.01048119808136592
+Depression during pregnancy (PHQ2),0.01025625356892373
+Total children,0.009871698240019579
+phq9_severe,0.009727337363697911
+Need for Support,0.008078034815997148
+Relationship between father and newborn,0.007206162545054543
+age_young,0.007003687883949116
+Relationship with husband,0.006675723746582171
+Worry about newborn,0.006360529149415554
+Angry after latest child birth,0.006009957773225772
+Major changes or losses during pregnancy,0.005352206640891272
+Education Level,0.005318297518185031
+Disease before pregnancy,0.005198827608433531
+depression_history_flag,0.004517212365276871
+age_squared,0.004515529296495168
+Pregnancy length,0.004469528309738945
+history_loss_flag,0.0037600369681338075
+Pregnancy plan,0.003669599015360351
+Relationship with the in-laws,0.003360742648775087
+Relax/sleep when the newborn is asleep,0.003193966001492128
+Number of household members,0.003130618257187734
+Regular checkups,0.002965318436841256
+abuse_flag,0.002777998824226748
+Relationship with the newborn,0.0026953117591227457
+cumulative_risk_score,0.0026934182544575327
+Depression before pregnancy (PHQ2),0.002437789309618982
+Trust and share feelings,0.002015578907115519
+high_parity_risk,0.0011705637963231644
+Relax/sleep when newborn is tended,0.0010113407216301605
+age_advanced,0.000811740957336662
+pregnancy_stress_score,0.0005861402259107445
+Birth compliancy,0.0005263480982013968
+Age,0.0004962933104045899
+age_parity_interaction,0.0003620566586788586
+Feeling for regular activities,0.00021687791614321544
+Family type,4.89200739266234e-05

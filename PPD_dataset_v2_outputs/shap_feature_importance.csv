@@ -1,0 +1,54 @@
+Feature,SHAP_Importance
+PHQ9 Score,0.11219306663180643
+PHQ9 Result,0.04812798636676671
+phq9_severe,0.047903737291865874
+Angry after latest child birth,0.02560465938808854
+phq9_mild,0.024940237325812232
+phq9_minimal,0.021971964275642908
+phq9_moderate,0.01787046662960893
+pregnancy_stress_score,0.0159526257295482
+Need for Support,0.015362184243520071
+social_support_index,0.01054435327193176
+Fear of pregnancy,0.0077842952206754875
+Major changes or losses during pregnancy,0.006809649790571904
+Feeling for regular activities,0.006488017739059128
+Recieved Support,0.006420853119322591
+Relax/sleep when the newborn is asleep,0.005767927502682255
+Age,0.005452687963828205
+age_squared,0.0052162856526566485
+Abuse,0.0051220885003353716
+Age of immediate older children,0.005023779320546671
+Trust and share feelings,0.004950094209217953
+Relationship with the in-laws,0.004938674444833399
+Feeling about motherhood,0.004912839177087492
+cumulative_risk_score,0.004656025245771733
+age_parity_interaction,0.004504905286882666
+low_support_flag,0.004495864849803399
+Worry about newborn,0.004249395953363276
+Pregnancy length,0.004078477759063209
+Birth compliancy,0.003457427793480133
+Pregnancy plan,0.0031020378457798322
+Relationship with husband,0.0030230848108134204
+Diseases during pregnancy,0.0029105508140740764
+abuse_flag,0.0029027652284424215
+Relax/sleep when newborn is tended,0.0028834034181172865
+Depression during pregnancy (PHQ2),0.0026024892807045897
+Total children,0.0023597150955239838
+Education Level,0.0023575064753628815
+Relationship between father and newborn,0.0023215749723968448
+Husband's education level,0.002308260537763316
+age_young,0.002266762453424273
+Number of the latest pregnancy,0.002241039002617706
+Relationship with the newborn,0.0020704387402345737
+Number of household members,0.0019735939235783996
+Disease before pregnancy,0.001895926218033987
+age_very_young,0.0016546196602776956
+Family type,0.0015786880116675877
+Breastfeed,0.00117611399812605
+age_optimal,0.0009419419167429832
+Regular checkups,0.0008310759968499336
+Depression before pregnancy (PHQ2),0.0007143479143830998
+age_advanced,0.0001306761868295305
+high_parity_risk,0.0
+history_loss_flag,0.0
+depression_history_flag,0.0
